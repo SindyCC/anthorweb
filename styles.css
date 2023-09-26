@@ -12,6 +12,12 @@ header {
     padding: 20px;
 }
 
+.logo 
+{
+    text-align: center;
+    
+}
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -29,9 +35,9 @@ nav a {
 
 /* Sección de héroe */
 .hero {
-    background-image: url('hero-bg.jpg');
+    background-image: url('img/Banneranthor.jpg');
     background-size: cover;
-    text-align: center;
+    text-align:  center;
     color: #fff;
     padding: 100px 0;
 }
